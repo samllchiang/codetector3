@@ -2,6 +2,7 @@
 // Android push test
 Parse.Cloud.define('pushChannelTest', function(request, response) {
 
+   require('cloud/app.js');
   // request has 2 parameters: params passed by the client and the authorized user
   var params = request.params;
   var user = request.user;

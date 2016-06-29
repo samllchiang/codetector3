@@ -1,0 +1,17 @@
+{
+  "global": {
+    "parseVersion": "1.3.3"
+  },
+  "applications": {
+    "codetector3": {
+      "applicationId": "xzlv6HeMQdpsG78Zk3Ey5XwMg3zF8pJAVHc7Lux9"
+    },
+    "_default": {
+      "link": "codetector3"
+    },
+    "codetector3": {
+      "applicationId": "xzlv6HeMQdpsG78Zk3Ey5XwMg3zF8pJAVHc7Lux9",
+      "masterKey": "clHFPT3iqKJbQU9DgDsTB8n0EEuFGWHaTvIholnV"
+    }
+  }
+}
