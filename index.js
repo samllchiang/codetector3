@@ -9,7 +9,7 @@ var databaseUri = process.env.DATABASE_URI || process.env.MONGOLAB_URI
 if (!databaseUri) {
   console.log('DATABASE_URI not specified, falling back to localhost.');
 }
- console.log('********************6/29**************************');
+ console.log('********************6/30**************************');
 
 var pushConfig = {};
 
